@@ -1,0 +1,8 @@
+{
+ "pixel_precision": 0.828,
+ "pixel_recall": 1.0,
+ "dice": 0.906,
+ "defects_in_object": 8,
+ "defects_found": 8,
+ "false_alarms": 0
+}
